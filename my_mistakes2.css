@@ -1,0 +1,40 @@
+.article {
+  max-width: 400px;
+  background: #999444;
+  margin: 30px auto;
+
+  box-shadow: 0 25px 25px;
+}
+.article-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.article-content {
+  padding: 30px;
+}
+
+.article-content a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.article-content a:hover {
+  text-decoration: underline;
+}
+
+.article-title {
+  margin-bottom: 30px;
+}
+
+.article-text {
+  margin-bottom: 30px;
+}
+
+.article-footer {
+  padding: 0;
+  list-style: none;
+  margin: 0;
+  color: #868686;
+}
